@@ -28,7 +28,7 @@ const Header = () => (
             textDecoration: "none"
           }}
         >
-          Gatsby Student
+          Student Games
         </Link>
       </h1>
     </div>

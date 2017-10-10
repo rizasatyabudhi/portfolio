@@ -4,7 +4,7 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 
 import "../../node_modules/bootstrap/scss/bootstrap.scss";
-import "./index.scss";
+import "../style/index.scss";
 
 const Header = () => (
   <div
@@ -38,7 +38,7 @@ const Header = () => (
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Student Games"
       meta={[
         { name: "description", content: "Sample" },
         { name: "keywords", content: "sample, something" }

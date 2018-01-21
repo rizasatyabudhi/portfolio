@@ -1,6 +1,3 @@
-# Student Games (GANEFO) site
-Student Games (GANEFO) static site with [Gatsby JS](https://www.gatsbyjs.org/)
-
 
 
 ```

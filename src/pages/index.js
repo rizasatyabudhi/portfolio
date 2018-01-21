@@ -17,7 +17,7 @@ const Index = () => (
           <span className="heading-primary--main">Riza Satyabudhi</span>
           <span className="heading-primary--sub">Developer</span>
         </h1>
-        {/*
+
         <div className="row u-margin-top-big animate">
           <a href="https://www.linkedin.com/in/rizasatyabudhi/" target="_blank">
             <img
@@ -41,15 +41,17 @@ const Index = () => (
               style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
-          <a href="mailto:rizasatya@gmail.com" target="_blank">
+          {/*
+
+            <a href="mailto:rizasatya@gmail.com" target="_blank">
             <img
-              src={maill}
-              alt="email"
-              style={{ width: "45px", marginRight: "30px" }}
+            src={maill}
+            alt="email"
+            style={{ width: "45px", marginRight: "30px" }}
             />
-          </a>
+            </a>
+          */}
         </div>
-        */}
       </div>
     </header>
     {/*

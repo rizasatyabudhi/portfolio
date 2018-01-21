@@ -1,2 +1,0 @@
-webpackJsonp([0x5e9cc9184613],{"./node_modules/json-loader/index.js!./.cache/json/courses.json":function(o,e){o.exports={pathContext:{}}}});
-//# sourceMappingURL=path---courses-a0e39f21c11f6a62c5ab.js.map

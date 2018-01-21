@@ -4,8 +4,6 @@
   "version": "1.0.0",
   "author": "Riza Ega Satyabudhi",
   "dependencies": {
-    "axios": "^0.17.1",
-    "bootstrap": "^4.0.0-beta",
     "font-awesome": "^4.7.0",
     "gatsby": "^1.9.45",
     "gatsby-link": "^1.6.17",

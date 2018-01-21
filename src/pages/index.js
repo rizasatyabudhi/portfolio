@@ -3,9 +3,9 @@ import Link from "gatsby-link";
 import Navigation from "../components/navigation";
 
 import twitterr from "../images/twitterr.svg";
-// import github from "../images/github.svg";
-// import linkedin from "../images/linkedin.svg";
-// import maill from "../images/maill.svg";
+import github from "../images/github.svg";
+import linkedin from "../images/linkedin.svg";
+import maill from "../images/maill.svg";
 
 const Index = () => (
   <main>
@@ -41,16 +41,6 @@ const Index = () => (
               style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
-          {/*
-
-            <a href="mailto:rizasatya@gmail.com" target="_blank">
-            <img
-            src={maill}
-            alt="email"
-            style={{ width: "45px", marginRight: "30px" }}
-            />
-            </a>
-          */}
         </div>
       </div>
     </header>

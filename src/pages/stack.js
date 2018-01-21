@@ -5,14 +5,13 @@ import cert1 from "../images/cert1.jpg";
 
 const Stack = () => (
   <main>
-    <section className="section-about">
-      <Navigation />
-
+    <Navigation />
+    <section className="section-about animate">
       <div className="u-center-text u-margin-bottom-big">
         <h2 className="heading-secondary">Courses I Have Taken</h2>
       </div>
 
-      <div className="row stack">
+      <div className="row">
         <div className="col-1-of-2">
           <h3 className="heading-tertiary u-margin-bottom-small">
             1. Modern React with Redux

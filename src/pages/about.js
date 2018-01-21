@@ -1,6 +1,7 @@
 import React from "react";
 import Navigation from "../components/navigation";
 import me from "../images/me.jpg";
+import aba from "../images/react.png";
 
 const about = () => (
   <main>
@@ -48,6 +49,57 @@ const about = () => (
                   web technologies.
                 </p>
               </div>
+
+              <div className="u-center-text u-margin-top-big ">
+                <div className="row">
+                  <h3 className="heading-tertiary u-margin-bottom-small">
+                    Education
+                  </h3>
+                  <p className="paragraph">
+                    <strong> Computer Science</strong>
+                    <br />Universitas Gadjah Mada
+                    <br /> 2015-Present
+                  </p>
+                </div>
+              </div>
+              <div className="u-center-text u-margin-top-big ">
+                <div className="row">
+                  <h3 className="heading-tertiary u-margin-bottom-small">
+                    Experience
+                  </h3>
+                  <p className="paragraph">
+                    <strong>
+                      1. INTERNAL & EXTERNAL OF HIMPUNAN MAHASISWA ILMU KOMPUTER
+                      UGM
+                    </strong>
+                    <br /> Oct 2015 – Sept 2016
+                    <br /> I learned many soft skills after I joined this
+                    internal & external division of Himpunan Mahasiswa Ilmu
+                    Komputer UGM, such as time management skill, communication
+                    skill, organizational skill, many more.
+                  </p>
+                  <p className="paragraph">
+                    <strong>
+                      2. INFORMATION SYSTEM DIVISION OF ORGANISASI MAHASISWA
+                      AHLI TEKNOLOGI INFORMASI
+                    </strong>
+                    <br /> Sept 2016 – Sept 2017
+                    <br /> My passion in web development started when I join the
+                    information system division of this organization. I learned
+                    many basic web development skill here, as we conduct
+                    tutorial session three times a week.
+                  </p>
+                  <p className="paragraph">
+                    <strong>3. DATTABOT WEB DEVELOER INTERNSHIP</strong>
+                    <br /> Sept 2017 – Dec 2017
+                    <br /> My passion in web development started when I join the
+                    information system division of this organization. I learned
+                    many basic web development skill here, as we conduct
+                    tutorial session three times a week.
+                  </p>
+                </div>
+              </div>
+
               {/*
                 <div className="form__group">
                 <button className="btn btn--green">Next step &rarr;</button>

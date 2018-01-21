@@ -3,9 +3,9 @@ import Link from "gatsby-link";
 import Navigation from "../components/navigation";
 
 import twitterr from "../images/twitterr.svg";
-import github from "../images/github.svg";
-import linkedin from "../images/linkedin.svg";
-import maill from "../images/maill.svg";
+// import github from "../images/github.svg";
+// import linkedin from "../images/linkedin.svg";
+// import maill from "../images/maill.svg";
 
 const Index = () => (
   <main>
@@ -17,7 +17,7 @@ const Index = () => (
           <span className="heading-primary--main">Riza Satyabudhi</span>
           <span className="heading-primary--sub">Developer</span>
         </h1>
-
+        {/*
         <div className="row u-margin-top-big animate">
           <a href="https://www.linkedin.com/in/rizasatyabudhi/" target="_blank">
             <img
@@ -49,6 +49,7 @@ const Index = () => (
             />
           </a>
         </div>
+        */}
       </div>
     </header>
     {/*

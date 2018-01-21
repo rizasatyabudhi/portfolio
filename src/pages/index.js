@@ -19,7 +19,11 @@ const Index = () => (
         </h1>
 
         <div className="row u-margin-top-big animate">
-          <a href="https://www.linkedin.com/in/rizasatyabudhi/" target="_blank">
+          <a
+            href="https://www.linkedin.com/in/rizasatyabudhi/"
+            target="_blank"
+            rel="noopener"
+          >
             <img
               src={linkedin}
               alt=""
@@ -27,14 +31,22 @@ const Index = () => (
               style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
-          <a href="https://github.com/rizasatyabudhi" target="_blank">
+          <a
+            href="https://github.com/rizasatyabudhi"
+            target="_blank"
+            rel="noopener"
+          >
             <img
               src={github}
               alt="github"
               style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
-          <a href="https://twitter.com/rizasatyabudhi" target="_blank">
+          <a
+            href="https://twitter.com/rizasatyabudhi"
+            target="_blank"
+            rel="noopener"
+          >
             <img
               src={twitterr}
               alt="twitter"
@@ -42,7 +54,7 @@ const Index = () => (
             />
           </a>
 
-          <a href="mailto:rizasatya@gmail.com" target="_blank">
+          <a href="mailto:rizasatya@gmail.com" target="_blank" rel="noopener">
             <img
               src={maill}
               alt="email"

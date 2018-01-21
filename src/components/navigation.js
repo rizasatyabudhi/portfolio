@@ -15,28 +15,19 @@ const navigation = () => (
       <ul className="navigation__list">
         <li className="navigation__item">
           <Link className="navigation__link" to="/">
-            Home
+            01 Home
           </Link>
         </li>
+        <li className="navigation__item">
+          <Link className="navigation__link" to="/about">
+            02 About
+          </Link>
+        </li>
+
         <li className="navigation__item">
           <Link className="navigation__link" to="/stack">
-            02 My Stack
+            03 Courses I've Taken
           </Link>
-        </li>
-        <li className="navigation__item">
-          <a href="#" className="navigation__link">
-            <span>03</span>Popular tours
-          </a>
-        </li>
-        <li className="navigation__item">
-          <a href="#" className="navigation__link">
-            <span>04</span>Stories
-          </a>
-        </li>
-        <li className="navigation__item">
-          <a href="#" className="navigation__link">
-            <span>05</span>Book now
-          </a>
         </li>
       </ul>
     </nav>

@@ -41,6 +41,14 @@ const Index = () => (
               style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
+
+          <a href="mailto:rizasatya@gmail.com" target="_blank">
+            <img
+              src={maill}
+              alt="email"
+              style={{ width: "45px", marginRight: "30px" }}
+            />
+          </a>
         </div>
       </div>
     </header>

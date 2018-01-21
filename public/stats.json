@@ -1,0 +1,72 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-09ed48b06a7fdc933e53.js",
+      "component---src-pages-index-js-09ed48b06a7fdc933e53.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---stack": [
+      "path---stack-a0e39f21c11f6a62c5ab.js",
+      "path---stack-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-6faf14113fef84d49cb5.js",
+      "component---src-layouts-index-js-6faf14113fef84d49cb5.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
+      "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "commons": [
+      "commons-29afe5c7c7046f024436.js",
+      "commons-29afe5c7c7046f024436.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---haha": [
+      "path---haha-a0e39f21c11f6a62c5ab.js",
+      "path---haha-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-a52597c40e37222dd59f.js",
+      "app-a52597c40e37222dd59f.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-4cc8a741887e4aaa3510.js",
+      "component---src-pages-about-js-4cc8a741887e4aaa3510.js.map"
+    ],
+    "component---src-pages-haha-js": [
+      "component---src-pages-haha-js-c52a4c3d7ab2fb979b30.js",
+      "component---src-pages-haha-js-c52a4c3d7ab2fb979b30.js.map"
+    ],
+    "component---src-pages-stack-js": [
+      "component---src-pages-stack-js-c0a6117a27ac07e9fa49.js",
+      "component---src-pages-stack-js-c0a6117a27ac07e9fa49.js.map"
+    ],
+    "path---about": [
+      "path---about-a0e39f21c11f6a62c5ab.js",
+      "path---about-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}

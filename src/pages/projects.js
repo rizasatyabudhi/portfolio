@@ -2,7 +2,7 @@ import React, { Component } from "react";
 
 import Navigation from "../components/navigation";
 
-const stack = () => (
+const projects = () => (
   <div>
     <main>
       <section className="section-book" style={{ height: "92vh" }}>
@@ -15,4 +15,4 @@ const stack = () => (
   </div>
 );
 
-export default stack;
+export default projects;

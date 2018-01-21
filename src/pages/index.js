@@ -1,7 +1,10 @@
 import React from "react";
 import Link from "gatsby-link";
 import Navigation from "../components/navigation";
-import image from "../images/tes.jpg";
+
+import twitterr from "../images/twitterr.svg";
+import github from "../images/github.svg";
+import linkedin from "../images/linkedin.svg";
 
 const Index = () => (
   <main>
@@ -16,6 +19,30 @@ const Index = () => (
         <a href="#section-tours" className="btn btn--white btn--animated">
           Discover our tours
         </a>
+        <div className="row u-margin-top-big">
+          <a href="https://www.linkedin.com/in/rizasatyabudhi/" target="_blank">
+            <img
+              src={linkedin}
+              alt=""
+              linkedin
+              style={{ width: "45px", marginRight: "20px" }}
+            />
+          </a>
+          <a href="https://github.com/rizasatyabudhi" target="_blank">
+            <img
+              src={github}
+              alt="github"
+              style={{ width: "45px", marginRight: "20px" }}
+            />
+          </a>
+          <a href="https://twitter.com/rizasatyabudhi" target="_blank">
+            <img
+              src={twitterr}
+              alt="twitter"
+              style={{ width: "45px", marginRight: "20px" }}
+            />
+          </a>
+        </div>
       </div>
     </header>
     {/*

@@ -1,7 +1,6 @@
 import React from "react";
 import Navigation from "../components/navigation";
 import me from "../images/me.jpg";
-import aba from "../images/react.png";
 
 const about = () => (
   <main>

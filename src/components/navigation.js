@@ -30,7 +30,7 @@ const navigation = () => (
           </Link>
         </li>
         <li className="navigation__item">
-          <Link className="navigation__link" to="/stack">
+          <Link className="navigation__link" to="/projects">
             04 Projects
           </Link>
         </li>

@@ -5,6 +5,7 @@ import Navigation from "../components/navigation";
 import twitterr from "../images/twitterr.svg";
 import github from "../images/github.svg";
 import linkedin from "../images/linkedin.svg";
+import maill from "../images/maill.svg";
 
 const Index = () => (
   <main>
@@ -16,30 +17,35 @@ const Index = () => (
           <span className="heading-primary--main">Riza Satyabudhi</span>
           <span className="heading-primary--sub">Developer</span>
         </h1>
-        <a href="#section-tours" className="btn btn--white btn--animated">
-          Discover our tours
-        </a>
-        <div className="row u-margin-top-big">
+
+        <div className="row u-margin-top-big animate">
           <a href="https://www.linkedin.com/in/rizasatyabudhi/" target="_blank">
             <img
               src={linkedin}
               alt=""
               linkedin
-              style={{ width: "45px", marginRight: "20px" }}
+              style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
           <a href="https://github.com/rizasatyabudhi" target="_blank">
             <img
               src={github}
               alt="github"
-              style={{ width: "45px", marginRight: "20px" }}
+              style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
           <a href="https://twitter.com/rizasatyabudhi" target="_blank">
             <img
               src={twitterr}
               alt="twitter"
-              style={{ width: "45px", marginRight: "20px" }}
+              style={{ width: "45px", marginRight: "30px" }}
+            />
+          </a>
+          <a href="mailto:rizasatya@gmail.com" target="_blank">
+            <img
+              src={maill}
+              alt="email"
+              style={{ width: "45px", marginRight: "30px" }}
             />
           </a>
         </div>

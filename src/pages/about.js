@@ -26,16 +26,16 @@ const about = () => (
               </div>
               <div className="u-center-text">
                 <p className="paragraph">
-                  A computer science student who passionate in the web
+                  I am a computer science student who passionate in the web
                   development. I started my learning journey in web development
                   from front-end development. Started from the most basic
                   front-end aspects, until utilizing the most popular front-end
                   framework named React JS, which is used by big companies like
                   Facebook,Instagram,Traveloka,Tokopedia, and many more. I then
-                  continue to learn GraphQL, a query language for API, which
-                  maybe replacing REST API in the future. My learning journey in
+                  continue to learn GraphQL, a query language for API, which may
+                  be replacing REST API in the future. My learning journey in
                   web development doesn’t stop there, I then continue to learn
-                  back-end as well, which is the node JS with express & mongoDB
+                  back-end as well, which is with node JS with express & mongoDB
                   to create a web server API. I learn both front-end and
                   back-end because I am really thrilled to be able to make my
                   own application.
@@ -43,9 +43,9 @@ const about = () => (
 
                 <p className="paragraph">
                   I have committed myself to never stop learning, because I
-                  believe that web development is always advancing, if I stop
-                  learning, that means I will be left behind with the current
-                  web technologies.
+                  believe that web development is always advancing. If I stop
+                  learning, that means I will be left behind with the
+                  awesomeness of web technologies advancement.
                 </p>
               </div>
 
@@ -55,9 +55,9 @@ const about = () => (
                     Education
                   </h3>
                   <p className="paragraph">
-                    <strong> Computer Science</strong>
+                    <strong> Computer Science Undergraduate</strong>
                     <br />Universitas Gadjah Mada
-                    <br /> 2015-Present
+                    <br /> 2015 - Present
                   </p>
                 </div>
               </div>
@@ -73,9 +73,9 @@ const about = () => (
                     </strong>
                     <br /> Oct 2015 – Sept 2016
                     <br /> I learned many soft skills after I joined this
-                    internal & external division of Himpunan Mahasiswa Ilmu
-                    Komputer UGM, such as time management skill, communication
-                    skill, organizational skill, many more.
+                    division of Himpunan Mahasiswa Ilmu Komputer UGM, such as
+                    time management skill, communication skill, organizational
+                    skill, many more.
                   </p>
                   <p className="paragraph">
                     <strong>
@@ -85,16 +85,19 @@ const about = () => (
                     <br /> Sept 2016 – Sept 2017
                     <br /> My passion in web development started when I join the
                     information system division of this organization. I learned
-                    many basic web development skill here, as we conduct
+                    many basic web development skill here, as we conducted
                     tutorial session three times a week.
                   </p>
                   <p className="paragraph">
                     <strong>3. DATTABOT WEB DEVELOER INTERNSHIP</strong>
                     <br /> Sept 2017 – Dec 2017
-                    <br /> My passion in web development started when I join the
-                    information system division of this organization. I learned
-                    many basic web development skill here, as we conduct
-                    tutorial session three times a week.
+                    <br /> I was the front-end web developer for Dattabot, which
+                    responsible for creating web application prototype using
+                    Next JS, a server-side rendering framework for React JS. The
+                    prototype also use GraphQL for the backend, which requires
+                    me to connect the GraphQL backend server with the front- end
+                    using Apollo library. I learned many new cutting edge
+                    technologies such as NextJS and GraphQL from this project.
                   </p>
                 </div>
               </div>

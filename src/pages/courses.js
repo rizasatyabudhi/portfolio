@@ -1,7 +1,10 @@
 import React from "react";
 import Link from "gatsby-link";
 import Navigation from "../components/navigation";
+
 import cert1 from "../images/cert1.jpg";
+import cert2 from "../images/cert2.jpg";
+import cert3 from "../images/cert3.jpg";
 
 const courses = () => (
   <main>
@@ -36,7 +39,11 @@ const courses = () => (
               </li>
             </ul>
           </p>
-          <a href="#" className="btn-text">
+          <a
+            href="https://www.udemy.com/certificate/UC-E63Z23PD/"
+            className="btn-text"
+            target="_blank"
+          >
             Link to course &rarr;
           </a>
         </div>
@@ -87,7 +94,11 @@ const courses = () => (
               </li>
             </ul>
           </p>
-          <a href="#" className="btn-text">
+          <a
+            href="https://www.udemy.com/certificate/UC-O6QNCV7M/"
+            className="btn-text"
+            target="_blank"
+          >
             Link to course &rarr;
           </a>
         </div>
@@ -95,7 +106,7 @@ const courses = () => (
           <img
             className="composition__photo"
             style={{ width: "400px" }}
-            src={cert1}
+            src={cert2}
             alt=""
           />
         </div>
@@ -133,15 +144,19 @@ const courses = () => (
               </li>
             </ul>
           </p>
-          <a href="#" className="btn-text">
-            Link to course &rarr;
+          <a
+            href="https://www.udemy.com/certificate/UC-YK5216ET/"
+            className="btn-text"
+            target="_blank"
+          >
+            Link to Course &rarr;
           </a>
         </div>
         <div className="col-1-of-2">
           <img
             className="composition__photo"
             style={{ width: "400px" }}
-            src={cert1}
+            src={cert3}
             alt=""
           />
         </div>
@@ -180,17 +195,9 @@ const courses = () => (
               </div>
             </div>
           </p>
-          <a href="#" className="btn-text">
+          <a href="https://learnnode.com/" className="btn-text" target="_blank">
             Link to course &rarr;
           </a>
-        </div>
-        <div className="col-1-of-2">
-          <img
-            className="composition__photo"
-            style={{ width: "400px" }}
-            src={cert1}
-            alt=""
-          />
         </div>
       </div>
       <div className="row stack">
@@ -206,17 +213,13 @@ const courses = () => (
               <li>Understand the process of designing NoSQL schema</li>
             </ol>
           </p>
-          <a href="#" className="btn-text">
+          <a
+            href="https://www.udemy.com/user/947067e1-b5f1-45de-937d-82f7f0b96b05/"
+            className="btn-text"
+            target="_blank"
+          >
             Link to course &rarr;
           </a>
-        </div>
-        <div className="col-1-of-2">
-          <img
-            className="composition__photo"
-            style={{ width: "400px" }}
-            src={cert1}
-            alt=""
-          />
         </div>
       </div>
     </section>

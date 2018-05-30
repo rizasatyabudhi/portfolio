@@ -36,16 +36,18 @@ const about = () => (
                   be replacing REST API in the future. My learning journey in
                   web development doesn’t stop there, I then continue to learn
                   back-end as well, which is with node JS with express & mongoDB
-                  to create a web server API. I learn both front-end and
-                  back-end because I am really thrilled to be able to make my
-                  own application.
+                  to create a web server API.
+                </p>
+
+                <p className="paragraph">
+                  My software development journey doesn't end here, i am know branching my development path to become mobile developer, which is iOS Developer. This is the software development path i chose from here now on, to become iOS Developer
                 </p>
 
                 <p className="paragraph">
                   I have committed myself to never stop learning, because I
-                  believe that web development is always advancing. If I stop
+                  believe that development is always advancing. If I stop
                   learning, that means I will be left behind with the
-                  awesomeness of web technologies advancement.
+                  awesomeness of technologies advancement.
                 </p>
               </div>
 
@@ -89,7 +91,15 @@ const about = () => (
                     tutorial session three times a week.
                   </p>
                   <p className="paragraph">
-                    <strong>3. DATTABOT WEB DEVELOER INTERNSHIP</strong>
+                    <strong>
+                      3. FRONT END DEVELOPER, PT SIGMA CIPTA CARAKA (TELKOMSIGMA)
+                    </strong>
+                    <br /> July 2017 – Oct 2017
+                    <br />
+                    Developed and implemented the PRouds software as a front end developer using Node.js, REACT.js and Express JS. PRouds is a human resource management system that will be used for the staff at TelkomSigma and Telkom to help maintain their progress, work and schedules.
+                  </p>
+                  <p className="paragraph">
+                    <strong>4. DATTABOT WEB DEVELOER INTERNSHIP</strong>
                     <br /> Sept 2017 – Dec 2017
                     <br /> I was the front-end web developer for Dattabot, which
                     responsible for creating web application prototype using
@@ -100,17 +110,17 @@ const about = () => (
                     technologies such as NextJS and GraphQL from this project.
                   </p>
                   <p className="paragraph">
-                    <strong>4. JOGJA INFORMATION TECHNOLOGY SESSION WEB DEVELOPER</strong>
+                    <strong>5. JOGJA INFORMATION TECHNOLOGY SESSION WEB DEVELOPER</strong>
                     <br /> Dec 2017 – Jan 2018
                     <br /> I was in charged of making the website for Himakom’s (Himpunan Mahasiswa Ilmu Komputer Gadjah Mada) biggest technology event, the website was beautifully made following current design trends.
                   </p>
                   <p className="paragraph">
-                    <strong>5. QISCUS STUDENT AMBASSADOR</strong>
+                    <strong>6. QISCUS STUDENT AMBASSADOR</strong>
                     <br /> Feb 2018 – Apr 2018
                     <br /> A mentorship program from Qiscus (Singapore Based Startup) to develop my professional skills, leadership, partnerships. I got benefits such as hands- on experience in strategic projects, mentoring with Qiscus’ Management and others, including their COO.
                   </p>
                   <p className="paragraph">
-                    <strong>6. BINAR ACADEMY iOS DEVELOPER</strong>
+                    <strong>7. BINAR ACADEMY iOS DEVELOPER</strong>
                     <br /> Feb 2018 – Mar 2018
                     <br /> 2 months intensive program to develop student’s software development skills. I got mentors from ex – GOJEK iOS engineer.
                   </p>

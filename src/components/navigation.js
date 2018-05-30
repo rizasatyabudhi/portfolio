@@ -34,11 +34,13 @@ const navigation = () => (
             04 Projects
           </Link>
         </li>
+        {/*
         <li className="navigation__item">
           <Link className="navigation__link" to="/stack">
             05 My Tech Stack
           </Link>
         </li>
+        */} 
       </ul>
     </nav>
   </div>

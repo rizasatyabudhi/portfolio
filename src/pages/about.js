@@ -99,14 +99,25 @@ const about = () => (
                     using Apollo library. I learned many new cutting edge
                     technologies such as NextJS and GraphQL from this project.
                   </p>
+                  <p className="paragraph">
+                    <strong>4. JOGJA INFORMATION TECHNOLOGY SESSION WEB DEVELOPER</strong>
+                    <br /> Dec 2017 – Jan 2018
+                    <br /> I was in charged of making the website for Himakom’s (Himpunan Mahasiswa Ilmu Komputer Gadjah Mada) biggest technology event, the website was beautifully made following current design trends.
+                  </p>
+                  <p className="paragraph">
+                    <strong>5. QISCUS STUDENT AMBASSADOR</strong>
+                    <br /> Feb 2018 – Apr 2018
+                    <br /> A mentorship program from Qiscus (Singapore Based Startup) to develop my professional skills, leadership, partnerships. I got benefits such as hands- on experience in strategic projects, mentoring with Qiscus’ Management and others, including their COO.
+                  </p>
+                  <p className="paragraph">
+                    <strong>6. BINAR ACADEMY iOS DEVELOPER</strong>
+                    <br /> Feb 2018 – Mar 2018
+                    <br /> 2 months intensive program to develop student’s software development skills. I got mentors from ex – GOJEK iOS engineer.
+                  </p>
                 </div>
               </div>
 
-              {/*
-                <div className="form__group">
-                <button className="btn btn--green">Next step &rarr;</button>
-                </div>
-            */}
+
             </form>
           </div>
         </div>

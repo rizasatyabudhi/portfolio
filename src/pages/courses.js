@@ -203,7 +203,53 @@ const courses = () => (
       <div className="row stack">
         <div className="col-1-of-2">
           <h3 className="heading-tertiary u-margin-bottom-small">
-            5. Other Courses I'm Currently Taking
+            5. iOS 11 and Swift 4 for Beginners: 200+ Hands-On Tutorials
+          </h3>
+          <p className="paragraph">
+            What i learned from the course:
+            <div className="row stack">
+                <ul>
+                  <li>How to program in Swift 4</li>
+                  <li>Build apps using Storyboards and UIKit controls</li>
+                  <li>Master Scroll Views and Collection Views</li>
+                  <li>Leverage the power of Auto Layout and Adaptive Layout</li>
+                  <li>Persist data with NSCoding and Core Data</li>
+                  <li>Connect to the web using NSURLSession</li>
+                  <li>Build back-ends using Firebase</li>
+                </ul>
+              </div>
+
+          </p>
+          <a href="https://www.udemy.com/ios-and-swift-for-beginners-200-hands-on-tutorials/?start=0" className="btn-text" target="_blank">
+            Link to course &rarr;
+          </a>
+        </div>
+      </div>
+      <div className="row stack">
+        <div className="col-1-of-2">
+          <h3 className="heading-tertiary u-margin-bottom-small">
+            6. iOS 11 & Swift 4 - The Complete iOS App Development Bootcamp
+          </h3>
+          <p className="paragraph">
+            What i learned from the course:
+            <div className="row stack">
+                <ul>
+                  <li>Concepts of Object Oriented Programming (OOP): The type system, variables, functions and methods, inheritance, classes and protocols.</li>
+                  <li>Software Design: How to organise and format code for readability and how to implement the Model ­View­ Controller (MVC) design pattern.</li>
+                  <li>Networking: How to make asynchronous API calls, store and retrieve data from the cloud, and use the JSON format for server communication.</li>
+                  <li>Core Data, Realm and other forms of persistent data storage.</li>
+                </ul>
+              </div>
+          </p>
+          <a href="https://www.udemy.com/ios-11-app-development-bootcamp/" className="btn-text" target="_blank">
+            Link to course &rarr;
+          </a>
+        </div>
+      </div>
+      <div className="row stack">
+        <div className="col-1-of-2">
+          <h3 className="heading-tertiary u-margin-bottom-small">
+            6. Other Courses I'm Currently Taking
           </h3>
           <p className="paragraph">
             <ol>

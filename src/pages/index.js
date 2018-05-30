@@ -1,7 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
 import Navigation from "../components/navigation";
-
 import twitterr from "../images/twitterr.svg";
 import github from "../images/github.svg";
 import linkedin from "../images/linkedin.svg";
@@ -15,7 +14,7 @@ const Index = () => (
       <div className="header__text-box">
         <h1 className="heading-primary">
           <span className="heading-primary--main">Riza Satyabudhi</span>
-          <span className="heading-primary--sub">Developer</span>
+          <span className="heading-primary--sub">iOS Developer</span>
         </h1>
 
         <div className="row u-margin-top-big animate">

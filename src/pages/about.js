@@ -26,15 +26,14 @@ const about = () => (
               </div>
               <div className="u-center-text">
                 <p className="paragraph">
-                  I am a computer science student who passionate in the web
-                  development. I started my learning journey in web development
-                  from front-end development. Started from the most basic
+                  I am a computer science student who passionate in the software
+                  development. I started my software development learning journey
+                  from front-end web development. Started from the most basic
                   front-end aspects, until utilizing the most popular front-end
                   framework named React JS, which is used by big companies like
                   Facebook,Instagram,Traveloka,Tokopedia, and many more. I then
                   continue to learn GraphQL, a query language for API, which may
-                  be replacing REST API in the future. My learning journey in
-                  web development doesn’t stop there, I then continue to learn
+                  be replacing REST API in the future. I then continue to learn
                   back-end as well, which is with node JS with express & mongoDB
                   to create a web server API.
                 </p>
@@ -44,7 +43,7 @@ const about = () => (
                 </p>
 
                 <p className="paragraph">
-                  I have committed myself to never stop learning, because I
+                  I believe the growth mindset. I see challenges as a way to improve myself. I have committed myself to never stop learning, because I
                   believe that development is always advancing. If I stop
                   learning, that means I will be left behind with the
                   awesomeness of technologies advancement.
